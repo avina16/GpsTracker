@@ -1,0 +1,15 @@
+.location_table {
+    width: 40%;
+    display: inline-block;
+    
+}
+
+.back_button {
+    float: left;
+    margin: 5px;
+}
+
+.logout-button {
+    float: right;
+    margin: 5px;
+}

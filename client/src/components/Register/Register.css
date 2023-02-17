@@ -1,0 +1,12 @@
+.button {
+    margin: 5px;
+  }
+  
+  label{
+    display: block;
+    margin: 7px;
+  }
+  
+  input{
+    margin: 10px;
+  }
